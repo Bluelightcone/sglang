@@ -3,7 +3,9 @@
 #pragma once
 
 #include <sgl_kernel/tensor.h>
+
 #include <cassert>
+
 #include <sgl_kernel/utils.cuh>
 
 namespace device::awq {
