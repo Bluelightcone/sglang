@@ -6,7 +6,6 @@
 #include <cassert>
 #include <sgl_kernel/utils.cuh>
 
-
 namespace device::awq {
 
 template <int lut>
